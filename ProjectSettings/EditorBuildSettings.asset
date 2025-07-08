@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: e8886e3e05f463145a2e04d5c8b276fb
+  - enabled: 1
+    path: Assets/Scenes/Level1_Tutorial.unity
+    guid: f319437792a43bc449bfd44d7a97fe80
+  - enabled: 1
+    path: Assets/Scenes/Level2_Combat.unity
+    guid: f35acea79238817488f244005199a064
+  - enabled: 1
+    path: Assets/Scenes/Level3_Glitch.unity
+    guid: 7da368f62afb1a347825c9887da22de1
+  - enabled: 0
+    path: Assets/Scenes/Glitch Tanks.unity
+    guid: 93749d080aa37f9448d394445829d676
+  - enabled: 0
+    path: Assets/Scenes/GameplayRoom.unity
+    guid: 1e0e00704bdfcc645a7ef153370b314c
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
